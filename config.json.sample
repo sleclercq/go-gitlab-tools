@@ -1,0 +1,9 @@
+{
+  "host":                  "https://gitlab.domain.com",
+  "api_path":              "/api/v3",
+  "token":                 "TOKEN",
+  "publishing_base_url":   "http://somedomain.com/somepath",
+  "publishing_login":      "someLogin",
+  "publishing_password":   "somePassword",
+  "flowdock_source_token": "1234567890abcdef"
+}
